@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156619687050",
+    "project_id": "madways-45b76",
+    "storage_bucket": "madways-45b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156619687050:android:a684458cd71e9e8f7c1973",
+        "android_client_info": {
+          "package_name": "com.ms.madways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156619687050-i9r7glv1qpkioopqbd2ic2bd2bl59us7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ms.madways",
+            "certificate_hash": "31e849c8ade8aad502189e35f2c47cba2b57a129"
+          }
+        },
+        {
+          "client_id": "156619687050-0euo9j0ietcupcu972f86op56klnlgn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDik4b-gXErEEiNoDp1qtf74pdZPOtdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156619687050-0euo9j0ietcupcu972f86op56klnlgn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
